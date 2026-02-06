@@ -1,2 +1,2 @@
 # Portfolio-web
-Modern freelancing landing page using HTML, CSS &amp; JS
+Modern freelancing landing page using HTML, CSS and JS
